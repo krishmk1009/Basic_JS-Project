@@ -1,0 +1,63 @@
+.heading  {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+
+}
+
+.add_btn{
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 10px;
+    background-color: rgb(207, 207, 207);
+    border: 2px solid black;
+    border-radius: 5px;
+    cursor: pointer;
+    
+
+}
+
+.employee__table {
+
+    height: 500px;
+    border: 2px solid black;
+    display: flex;
+    flex-direction: row;
+}
+
+
+.employees {
+
+    border: 2px solid black;
+
+    width: 30%;
+    height: 100%;
+
+}
+
+.employees__single {
+    border: 2px solid black;
+
+    height: 100%;
+
+
+
+}
+
+.employee {
+
+    background-color: rgb(207, 207, 207);
+    list-style: none;
+    margin-top: 10px;
+    padding: 10px;
+}
+
+
+.selected_employee {
+
+    background-color: red;
+    list-style: none;
+    margin-top: 10px;
+    padding: 10px;
+}

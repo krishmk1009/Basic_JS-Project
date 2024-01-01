@@ -1,0 +1,43 @@
+[
+    {
+      "name": "John Doe",
+      "age": 30,
+      "designation": "Software Engineer",
+      "company": "Tech Solutions Inc.",
+      "dateOfBirth": "1992-05-15",
+      "phoneNumber": "+1 (555) 123-4567"
+    },
+    {
+      "name": "Alice Smith",
+      "age": 28,
+      "designation": "UX Designer",
+      "company": "Design Innovators Ltd.",
+      "dateOfBirth": "1994-09-22",
+      "phoneNumber": "+1 (555) 987-6543"
+    },
+    {
+      "name": "Bob Johnson",
+      "age": 35,
+      "designation": "Project Manager",
+      "company": "Project Masters Corp.",
+      "dateOfBirth": "1989-11-08",
+      "phoneNumber": "+1 (555) 321-7890"
+    },
+    {
+      "name": "Eva Davis",
+      "age": 25,
+      "designation": "Marketing Specialist",
+      "company": "Market Dynamics Co.",
+      "dateOfBirth": "1997-03-03",
+      "phoneNumber": "+1 (555) 876-5432"
+    },
+    {
+      "name": "Michael Brown",
+      "age": 32,
+      "designation": "Financial Analyst",
+      "company": "Finance Wizards Ltd.",
+      "dateOfBirth": "1990-07-12",
+      "phoneNumber": "+1 (555) 234-5678"
+    }
+  ]
+  
